@@ -18,7 +18,7 @@ const HomePage = () => {
               <Link to="/signin">Sign In</Link>
             </button>
             <button className="bg-blue-500 hover:bg-blue-700 m-4 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
-              <Link to="/signin">Sign Up</Link>
+              <Link to="/signup">Sign Up</Link>
             </button>
           </div>
         )}

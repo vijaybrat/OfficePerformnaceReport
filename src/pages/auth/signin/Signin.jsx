@@ -43,7 +43,6 @@ const SignIn = () => {
       console.log(error);
       toast.error(error.message);
       setLoading(false);
-      setLoading(false);
     }
   };
 
